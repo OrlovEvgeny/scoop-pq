@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The Swiss Army knife of Parquet. Inspect, transform, and operate on Parquet files from your terminal.",
   "homepage": "https://github.com/OrlovEvgeny/pq",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://pq.eorlov.org/dist/v1.0.5/pq-v1.0.5-x86_64-pc-windows-msvc.zip",
-      "hash": "5ece54135b515630acda96c5570d7f87e2c03854af045f11aae058392ba546f7"
+      "url": "https://pq.eorlov.org/dist/v1.0.6/pq-v1.0.6-x86_64-pc-windows-msvc.zip",
+      "hash": "57af254cd9485537e02d684a050107251ef4d7312fd04712dd216b8b18fd1339"
     }
   },
   "bin": "pq.exe",
